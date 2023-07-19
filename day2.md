@@ -105,7 +105,7 @@ For slow PC's, It is recommended to use **i3-window manager**.
 
 **ARCH**
   - Black Arch
-  - Garuda ......
+  - Garuda .....
 
 **KALI LINUX**
 - It is *Debian* Based Destribution that used for *Digital forensic and Penetration testing*. It ussd **XFCE**. It uses the shell called **ZSH**.
