@@ -115,4 +115,3 @@ For slow PC's, It is recommended to use **i3-window manager**.
 
 **GARUDA**
 - It is *Arch* Based Destribution that uses **KDE Plasma** and the **FISH** shell.
->>>>>>> 38ae6a882fb1e04a469989f9c1233ad845e400a3
