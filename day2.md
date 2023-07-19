@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Introduction to linux
 
 - ## What is linux
