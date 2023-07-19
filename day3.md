@@ -62,7 +62,7 @@ grep is a useful command to search for matching patterns in a *file*.
 t is used to find out number of lines,
 word count, byte and characters count in
 the files specified in the file arguments.
-Line(-l)......word(-w)......byte(-c).
+Line(-l).....word(-w)......byte(-c).
 
 ## Multiple command executions
 
