@@ -1,5 +1,5 @@
 # Introduction to linux
-
+✍🏻 by Natnael W.
 - ## What is linux
 
 Linux is a kernel. **kernel** is a program that used to meet the software and the hardware.
